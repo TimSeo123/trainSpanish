@@ -1,1 +1,23 @@
+body {
+    background-color: lightyellow; 
+}
 
+h1 {
+    color: darkred;
+
+}
+
+fieldset {
+    border:hidden;
+    border-radius: 8px;
+    
+}
+legend {
+    font-weight: bold;
+    color: black;
+    font-family: Verdana;
+    font-size:medium;
+}
+label {
+    font-family:Calibri; color:black;
+}
